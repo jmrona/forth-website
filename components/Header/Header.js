@@ -50,7 +50,7 @@ export default function Header() {
             </div>
             <div className="flex items-center pb-2">
               <i className="fal fa-check fa-fw"></i>
-              <p className="pl-3">Identify areas that need improvement</p>
+              <p className="pl-3">Identify areas that need improvement.</p>
             </div>
           </div>
           <div className="w-1/2">
