@@ -1,0 +1,13 @@
+.mobileMenu{
+  justify-content: space-between;
+  width: 25px;
+  height: 20px;
+
+}
+
+.mobileMenu span{
+  background-color: black;
+  width: 100%;
+  height: 3px;
+  border-radius: 5px;
+};
